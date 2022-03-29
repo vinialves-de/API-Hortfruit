@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'apivini'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE23A8EEE8BE4EF6B88A6A2D3C731DB2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_239D3DD999B24BD0BA362C56A02DB1A1 }}
           package: .
